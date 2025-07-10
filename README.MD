@@ -1,27 +1,17 @@
-# 🤖 Integração Zabbix com Inteligência Artificial Gemini
+# Integração Zabbix com Inteligência Artificial Gemini
 
-Este projeto tem como objetivo integrar o **Zabbix** com a ferramenta de inteligência artificial **Google Gemini**, utilizando a API fornecida pelo **Google AI Studio**. Com isso, é possível analisar automaticamente os alertas do Zabbix, obtendo **possíveis causas e soluções** sugeridas pela IA, além de usar um **widget personalizado** para diagnósticos avançados.
-
----
-
-## 🚀 Funcionalidades
-
-- 🔍 Identificação de **causas prováveis** para alertas
-- 💡 Sugestões de **soluções automáticas**
-- 📉 Otimização dos thresholds e regras de monitoramento
-- 📊 Criação de um widget IA: **"Em que você está trabalhando?"**
-- 📚 Suporte a implementação local com modelos open source (HuggingFace)
+Este projeto tem como objetivo integrar o **Zabbix** com a ferramenta de inteligência artificial **Google Gemini**, utilizando a API fornecida pelo **Google AI Studio em PT-BR**. Com isso, é possível analisar automaticamente os alertas do Zabbix, obtendo **possíveis causas e soluções** sugeridas pela IA, além de usar um **widget personalizado** para diagnósticos avançados.
 
 ---
 
-## 📦 Repositório
+## Repositório
 
 🔗 Repositório Oficial:  
 [https://github.com/GuilhermeGaffuri/zabbixIA](https://github.com/GuilhermeGaffuri/zabbixIA)
 
 ---
 
-## ✨ Requisitos
+## Requisitos
 
 - Zabbix versão **7.0** ou superior
 - Conta no [Google AI Studio](https://aistudio.google.com/)
@@ -30,7 +20,7 @@ Este projeto tem como objetivo integrar o **Zabbix** com a ferramenta de intelig
 
 ---
 
-## 🧠 Obtenha sua API do Gemini
+## Obtenha sua API do Gemini
 
 1. Acesse: [https://aistudio.google.com/](https://aistudio.google.com/)
 2. Faça login com sua conta Google
@@ -39,7 +29,7 @@ Este projeto tem como objetivo integrar o **Zabbix** com a ferramenta de intelig
 
 ---
 
-## 🔧 Instalação do Script de IA no Zabbix
+## Instalação do Script de IA no Zabbix
 
 ### Passo 1: Acesse o Zabbix
 - Vá em **Configuração > Ações > Scripts**
@@ -63,11 +53,13 @@ Este projeto tem como objetivo integrar o **Zabbix** com a ferramenta de intelig
 ## Como utilizar
 
 1. Vá ao painel de problemas do Zabbix
+![Descrição](./images/TELA1.PNG)
 2. Clique em um alerta
 3. Selecione o botão **"Assistente IA"**
+![Descrição](./images/TELA2.PNG)
 4. Escolha a ação **"Causa possível e solução"**
+![Descrição](./images/TELA3.PNG)
 
-A IA responderá com um diagnóstico e solução baseada no alerta atual.
 
 ---
 
