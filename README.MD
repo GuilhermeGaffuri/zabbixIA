@@ -70,8 +70,9 @@ Este projeto tem como objetivo integrar o **Zabbix** com a ferramenta de intelig
 
 ## Créditos
 
-Este projeto foi originalmente baseado no script desenvolvido por **Cesar Caceres**, publicado no blog oficial do Zabbix:
+Este projeto foi originalmente baseado no script desenvolvido por **Cesar Caceres**, da **Venezuela**, publicado no blog oficial do Zabbix:
 
 🔗 [Criando um assistente pessoal no Zabbix com Inteligência Artificial – por Cesar Caceres](https://blog.zabbix.com/creating-a-personal-assistant-in-zabbix-with-artificial-intelligence/29596/)
 
-O script original estava em **espanhol**. Esta versão foi adaptada e traduzida para o **português brasileiro (PT-BR)** com o objetivo de facilitar a compreensão e o uso por usuários da comunidade brasileira.
+O script original foi escrito em **espanhol (Venezuela)**. Esta versão foi adaptada e traduzida para o **português brasileiro (PT-BR)** com o objetivo de facilitar a compreensão e uso por parte da comunidade brasileira.
+
