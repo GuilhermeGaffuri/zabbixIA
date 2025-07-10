@@ -53,11 +53,16 @@ Este projeto tem como objetivo integrar o **Zabbix** com a ferramenta de intelig
 ## Como utilizar
 
 1. Vá ao painel de problemas do Zabbix
+
 ![Descrição](./images/TELA1.PNG)
+
 2. Clique em um alerta
 3. Selecione o botão **"Assistente IA"**
+
 ![Descrição](./images/TELA2.PNG)
+
 4. Escolha a ação **"Causa possível e solução"**
+
 ![Descrição](./images/TELA3.PNG)
 
 
