@@ -52,7 +52,10 @@ Este projeto tem como objetivo integrar o **Zabbix** com a ferramenta de intelig
 - **Script:** copie o conteúdo do arquivo [`script-zabbix-gemini.sh`](https://github.com/GuilhermeGaffuri/zabbixIA/blob/main/script-zabbix-gemini.sh)
 
 > ⚠️ **Não esqueça de substituir `YOUR_API_KEY` pela sua chave do Gemini no script.**
+<<<<<<< HEAD
 ![Descrição da imagem](./images/image.png)
+=======
+>>>>>>> 3e7bf77d99f30def7cd141380ef3e5ec4f2f4226
 
 ---
 
@@ -74,6 +77,7 @@ A IA responderá com um diagnóstico e solução baseada no alerta atual.
 1. No servidor, acesse:
    ```bash
    cd /usr/share/zabbix/widgets/
+<<<<<<< HEAD
 
 
 ## 🖥️ Frontend
@@ -107,3 +111,5 @@ Você pode substituir o Google Gemini por modelos de IA **open source**, como os
 2. **Adapte** o script para fazer requisições à sua API local
 3. **Crie um banco de dados** com alertas e respostas anteriores
 4. A IA irá **aprender com eventos recorrentes** e oferecer soluções mais precisas ao longo do tempo
+=======
+>>>>>>> 3e7bf77d99f30def7cd141380ef3e5ec4f2f4226
